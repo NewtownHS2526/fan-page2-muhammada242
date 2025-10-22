@@ -68,11 +68,11 @@ Your task is to add styling to this website. You will access elements of the pag
 
 6. Now that we have access to just this image, let's [center](https://www.w3schools.com/howto/howto_css_image_center.asp) it. You can add three declarations, `display: block;`, `margin-left: auto;`, and `margin-right: auto;`, or, since they have the same value ("auto") you can just add two as shown below:
     ```css
-    #main-image {
-        width: 400px;
+     #main-image {
+    width: 400px;
 
-        display: block;
-        margin: auto;
+    display: block;
+    margin: auto;
     }
     ```
 
